@@ -1,0 +1,22 @@
+.hero {
+  position: absolute;
+  z-index: 5;
+  top: 341px;
+  margin-left: 500px;
+  /* height: 250px; */
+  /* align-items: center; */
+}
+
+.guide {
+  color: rgba(251, 215, 132, 1)
+}
+
+.title {
+  color: #fff;
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 100px;
+  width: 950px;
+  text-transform: capitalize;
+}

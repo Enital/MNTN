@@ -1,1 +1,8 @@
-.content {}
+.content {
+  background-image: url('../../../images/BG_content.png');
+  width: 1920px;
+  height: 700px;
+  position: absolute;
+  top: 2000px;
+  z-index: 2;
+}
