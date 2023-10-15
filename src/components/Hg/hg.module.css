@@ -1,0 +1,8 @@
+.hg {
+  background-image: url('../../../images/HG.png');
+  position: absolute;
+  background-size: cover;
+  height: 1113px;
+  width: 1920px;
+  z-index: 1;
+}

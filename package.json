@@ -2,7 +2,7 @@
   "name": "MNTN",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://Enital.github.io/Mntn",
+  "homepage": "https://Enital.github.io/MNTN",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

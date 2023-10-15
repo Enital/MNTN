@@ -1,0 +1,10 @@
+.mg {
+  background-image: url('../../../images/MG.png');
+  position: absolute;
+  height: 1422px;
+  width: 1920px;
+  top: 851px;
+  /* left: -30px; */
+  z-index: 1;
+
+}

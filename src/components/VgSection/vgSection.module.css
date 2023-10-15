@@ -1,0 +1,9 @@
+.vgSection {
+  background-image: url('../../../images/VG.png');
+  position: absolute;
+  height: 926px;
+  width: 1920px;
+  top: 1554px;
+  /* left: -30px; */
+  z-index: 1;
+}
