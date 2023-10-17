@@ -20,3 +20,7 @@
   width: 950px;
   text-transform: capitalize;
 }
+
+.heroButton {
+  border: none;
+}
