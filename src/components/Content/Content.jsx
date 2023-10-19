@@ -5,7 +5,7 @@ function Content() {
     <div className={css.content}>
       <div className={css.blockOne}>
         <ul>
-          <li>
+          <li className={css.upperTitle}>
             <h3 className={css.opacityTitle}>01</h3>
             <p className={css.yellowTitle}>GET STARTED</p>
           </li>
@@ -19,7 +19,8 @@ function Content() {
               you – novice, moderate, advanced moderate, expert, or expert
               backpacker?
             </p>
-            <img src="../../images/01.png" alt="01" width={566} height={720} />
+            <div className={css.imgBlock}></div>
+            {/* <img src="../../images/01.png" alt="01" width={566} height={720} /> */}
           </li>
         </ul>
       </div>

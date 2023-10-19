@@ -10,7 +10,7 @@
 .blockOne {
   position: absolute;
   z-index: 5;
-  top: 500;
+  /* top: 400; */
 }
 
 .opacityTitle {
@@ -24,6 +24,8 @@
   z-index: 5;
   top: 500; */
 }
+
+.upperTitle {}
 
 .yellowTitle {
   color: #FBD784;

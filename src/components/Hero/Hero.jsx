@@ -9,7 +9,9 @@ function Hero() {
         HIKING GUIDE
       </h2>
       <h1 className={css.title}>Be prepared for the Mountains and beyond!</h1>
-      <button className={css.heroButton}>scroll down</button>
+      <button type="button" className={css.heroButton}>
+        scroll down
+      </button>
     </div>
   );
 }

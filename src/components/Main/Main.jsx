@@ -16,9 +16,9 @@ function Main() {
       <HgSection />
       <Header />
       <Hero />
+      <Content />
       <MgSection />
       <VgSection />
-      <Content />
 
       <Footer />
     </div>
