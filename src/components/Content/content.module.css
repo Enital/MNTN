@@ -6,3 +6,50 @@
   top: 2000px;
   z-index: 2;
 }
+
+.blockOne {
+  position: absolute;
+  z-index: 5;
+  top: 500;
+}
+
+.opacityTitle {
+  font-size: 240px;
+  color: #fff;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 240px;
+  opacity: 0.1;
+  /* position: absolute;
+  z-index: 5;
+  top: 500; */
+}
+
+.yellowTitle {
+  color: #FBD784;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+}
+
+.blockTitle {
+  color: #FFF;
+  width: 555px;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.blockText {
+  color: #FFF;
+  width: 632px;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+
+}
