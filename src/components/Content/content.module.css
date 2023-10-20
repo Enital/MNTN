@@ -73,9 +73,11 @@
 .img {
   width: 566px;
   height: 720px;
+  margin-left: 200px;
 }
 
 .bottomBlock {
   position: relative;
+  top: 100px;
   left: 200px;
 }
