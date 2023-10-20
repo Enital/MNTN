@@ -8,8 +8,13 @@
 }
 
 .blockOne {
-  position: absolute;
+  /* position: absolute; */
+  position: relative;
   z-index: 5;
+  height: 720px;
+  width: 1472px;
+  border: solid 1px #fff;
+  left: 229px;
   /* top: 400; */
 }
 
@@ -20,12 +25,15 @@
   font-weight: 700;
   line-height: 240px;
   opacity: 0.1;
-  /* position: absolute;
-  z-index: 5;
+  position: absolute;
+  /* top: 20px; */
+  /* z-index: 5;
   top: 500; */
 }
 
-.upperTitle {}
+.upperTitle {
+  position: relative;
+}
 
 .yellowTitle {
   color: #FBD784;
@@ -35,6 +43,8 @@
   line-height: normal;
   letter-spacing: 6px;
   text-transform: uppercase;
+  position: absolute;
+  top: 30px;
 }
 
 .blockTitle {
@@ -53,5 +63,19 @@
   font-style: normal;
   font-weight: 700;
   line-height: 32px;
+}
 
+.list {
+  display: flex;
+  flex-direction: row;
+}
+
+.img {
+  width: 566px;
+  height: 720px;
+}
+
+.bottomBlock {
+  position: relative;
+  left: 200px;
 }
