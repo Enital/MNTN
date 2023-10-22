@@ -102,9 +102,10 @@
 .blockTitle {
   color: #FFF;
   width: 555px;
+  font-family: 'Chronicle Display', sans-serif;
   font-size: 64px;
   font-style: normal;
-  font-weight: 600;
+  font-weight: 375;
   line-height: normal;
   margin-top: 27px;
 }
