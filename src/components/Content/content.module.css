@@ -117,11 +117,22 @@
   font-weight: 700;
   line-height: 32px;
   margin-top: 27px;
+  margin-bottom: 27px;
 }
 
 .contentButton {
   border: none;
   background-color: transparent;
+}
+
+.yellow {
+  color: var(--Accent, #FBD784);
+  font-family: 'Gilroy-Regular', sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-right: 16px;
 }
 
 .contentBlockTwo {

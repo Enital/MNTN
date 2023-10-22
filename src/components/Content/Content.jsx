@@ -30,7 +30,7 @@ function Content() {
                   expert, or expert backpacker?
                 </p>
                 <button className={css.contentButton}>
-                  <span className={css.yellowTitle}>read more</span>
+                  <span className={css.yellow}>read more</span>
                   <BsArrowRight color="#FBD784" />
                 </button>
               </li>
@@ -61,7 +61,7 @@ function Content() {
                   which will get heavy and chafe wif they get sweaty or wet.
                 </p>
                 <button className={css.contentButton}>
-                  <span className={css.yellowTitle}>read more</span>
+                  <span className={css.yellow}>read more</span>
                   <BsArrowRight color="#FBD784" />
                 </button>
               </li>
@@ -88,7 +88,7 @@ function Content() {
                   junction..
                 </p>
                 <button className={css.contentButton}>
-                  <span className={css.yellowTitle}>read more</span>
+                  <span className={css.yellow}>read more</span>
                   <BsArrowRight color="#FBD784" />
                 </button>
               </li>
